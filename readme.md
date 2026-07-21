@@ -54,7 +54,7 @@ O projeto é todo "front-end" — ou seja, roda direto no navegador, sem precisa
 
 O projeto está publicado e pode ser acessado direto pelo navegador, sem precisar instalar nada:
 
-👉 *(coloque aqui o link do Netlify ou GitHub Pages)*
+👉  https://darlontoebe.github.io/Erp1-lancheria/
 
 Se quiser rodar localmente no seu computador:
 
